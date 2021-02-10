@@ -34,7 +34,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "react-zen-store",
+  "name": "@zenstack/react-zen-store",
   "author": "Yazan Alaboudi",
   "module": "dist/react-zen-store.esm.js",
   "size-limit": [
